@@ -1,0 +1,15 @@
+#python
+a=int(input())
+b=int(input())
+add=a+b
+sub=a-b
+mul=a*b
+mod=a/b
+rem=a%b
+fdiv=a//b
+print(add)
+print(sub)
+print(mul)
+print(mod)
+print(fdiv)
+print(rem)
